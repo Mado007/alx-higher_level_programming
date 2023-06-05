@@ -1,1 +1,1 @@
-_Python 0x00- Hello, World_
+_Python 0x00-Hello World_
