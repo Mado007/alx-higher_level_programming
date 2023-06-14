@@ -11,11 +11,11 @@ def best_score(a_dictionary):
 
         leader = ""
         score = 0
-        
+
         for i in my_list:
             if a_dictionary[i] > score:
 
                 leader = i
                 score = a_dictionary[i]
-                
+
         return leader
