@@ -1,10 +1,8 @@
 #!/usr/bin/python3
 
-
 def simple_delete(a_dictionary, key=""):
     """
-    Functions that delete Key in Dictionary
-
+    Function that deletes Key in a Dictionary.
     """
     if key in a_dictionary:
         del a_dictionary[key]
