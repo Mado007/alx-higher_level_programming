@@ -1,5 +1,5 @@
 #!/usr/bin/node
-//updated script to replace value 12
+// updated script to replace value 12
 
 const myObject = {
   type: 'object',
