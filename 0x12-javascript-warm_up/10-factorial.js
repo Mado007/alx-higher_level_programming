@@ -1,5 +1,6 @@
 #!/usr/bin/node
 // script computes and prints factorial recursively
+
 const arg = process.argv.slice(2);
 const argInt = parseInt(arg[0]);
 function factorial (n) {
