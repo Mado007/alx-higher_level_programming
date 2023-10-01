@@ -1,4 +1,3 @@
 #!/bin/bash
 # script makes request to curl url till we get "You got me! in the body of the response.
 curl -sX PUT -L -d "user_id=98" --header "origin: HolbertonSchool" 0.0.0.0:5000/catch_me
-0
